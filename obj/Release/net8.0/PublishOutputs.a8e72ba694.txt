@@ -1,0 +1,7 @@
+C:\Users\vyanagan\Desktop\Projects\newapplication\bin\Release\net8.0\publish\newapplication.exe
+C:\Users\vyanagan\Desktop\Projects\newapplication\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\vyanagan\Desktop\Projects\newapplication\bin\Release\net8.0\publish\appsettings.json
+C:\Users\vyanagan\Desktop\Projects\newapplication\bin\Release\net8.0\publish\newapplication.dll
+C:\Users\vyanagan\Desktop\Projects\newapplication\bin\Release\net8.0\publish\newapplication.deps.json
+C:\Users\vyanagan\Desktop\Projects\newapplication\bin\Release\net8.0\publish\newapplication.runtimeconfig.json
+C:\Users\vyanagan\Desktop\Projects\newapplication\bin\Release\net8.0\publish\newapplication.pdb
